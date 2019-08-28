@@ -1,0 +1,45 @@
+/* 滑块选择 */
+.switchtag {
+  width: 2.626667rem;
+  height: .6rem;
+  border: 1px solid #2dded4;
+  border-radius: 50px;
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+.switchtag span {
+  display: block;
+  width: 50%;
+  text-align: center;
+  font-size: .373333rem;
+  color: #2dded4;
+  position: relative;
+  z-index: 10;
+}
+.switchtag .on {
+  color: #fff;
+}
+.switchtag b {
+  width: 1.333333rem;
+  height: .6rem;
+  position: absolute;
+  top: -1px;
+  left: -1px;
+  background: #2dded4;
+  border-radius: 50px;
+  z-index: 1;
+}
+/* 小标题 */
+.h-4 {
+  font-size: .373333rem;
+  color: #e1e1e1;
+  padding: .2rem 0;
+  display: flex;
+  align-items: center;
+}
+.h-4 img {
+  width: .293333rem;
+  height: .293333rem;
+  margin-right: .2rem;
+}

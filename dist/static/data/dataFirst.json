@@ -1,0 +1,75 @@
+{
+  "code": "0000",
+  "message": "success",
+  "res": {
+    "totalSocietyEnergy": "1234",
+    "totalEnergy": "123",
+    "industrialElectricity": "123",
+    "grossIndustrialOutput": "123",
+    "unitConsumption": "1234",
+    "totalSocietyEnergyP": "29",
+    "totalEnergyP": "29",
+    "industrialElectricityP": "29",
+    "grossIndustrialOutputP": "29",
+    "unitConsumptionP": "29",
+    "regionalList": ["80", "70", "60", "40", "20"],
+    "indicatorTrends": ["700", "600", "768", "585", "500", "900", "600", "499", "789", "695", "578", "600"],
+    "yearList": ["2015", "2016", "2017", "2018", "2019"],
+    "monthList": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12"],
+    "dqOverview": [
+      {
+        "date": "20196",
+        "enterpriseList": [
+          {"name": "第一个企业有限公司", "monitoringPoints": "50", "abnormalPoints": "13", "Proportion": "10"},
+          {"name": "第二个公司", "monitoringPoints": "50", "abnormalPoints": "13", "Proportion": "9"},
+          {"name": "第三个有限公司", "monitoringPoints": "50", "abnormalPoints": "5", "Proportion": "8"},
+          {"name": "第四个文化传播有限公司", "monitoringPoints": "50", "abnormalPoints": "9", "Proportion": "7"},
+          {"name": "第五个名字一定要特别长的科技有限公司", "monitoringPoints": "50", "abnormalPoints": "9", "Proportion": "6"},
+          {"name": "第六个广告公司", "monitoringPoints": "50", "abnormalPoints": "13", "Proportion": "5"},
+          {"name": "第七个工业公司", "monitoringPoints": "50", "abnormalPoints": "13", "Proportion": "4"},
+          {"name": "第八个公司", "monitoringPoints": "50", "abnormalPoints": "5", "Proportion": "3"},
+          {"name": "第九个不知道叫什么名字了就这么着有限公司", "monitoringPoints": "50", "abnormalPoints": "9", "Proportion": "2"},
+          {"name": "第十个够了够了公司", "monitoringPoints": "50", "abnormalPoints": "9", "Proportion": "1"}
+        ],
+        "dataQ": {
+          "unusual": ["100", "180", "175", "130", "140", "120"],
+          "lose": ["110", "150", "155", "160", "158", "150"],
+          "normal": ["230", "300", "200", "220", "320", "250"]
+        },
+        "meter": "85",
+        "dataUn": "100",
+        "dataLose": "17"
+      },
+      {
+        "date": "20189",
+        "enterpriseList": [
+          {"name": "第四个文化传播有限公司", "monitoringPoints": "50", "abnormalPoints": "9", "Proportion": "4"},
+          {"name": "第五个名字一定要特别长的科技有限公司", "monitoringPoints": "50", "abnormalPoints": "9", "Proportion": "5"},
+          {"name": "第六个广告公司", "monitoringPoints": "50", "abnormalPoints": "13", "Proportion": "6"},
+          {"name": "第七个工业公司", "monitoringPoints": "50", "abnormalPoints": "13", "Proportion": "7"},
+          {"name": "第八个公司", "monitoringPoints": "50", "abnormalPoints": "5", "Proportion": "8"},
+          {"name": "第一个企业有限公司", "monitoringPoints": "50", "abnormalPoints": "13", "Proportion": "1"},
+          {"name": "第二个公司", "monitoringPoints": "50", "abnormalPoints": "13", "Proportion": "2"},
+          {"name": "第三个有限公司", "monitoringPoints": "50", "abnormalPoints": "5", "Proportion": "3"},
+          {"name": "第九个不知道叫什么名字了就这么着吧有限公司", "monitoringPoints": "50", "abnormalPoints": "9", "Proportion": "9"},
+          {"name": "第十个够了够了公司", "monitoringPoints": "50", "abnormalPoints": "9", "Proportion": "10"}
+        ],
+        "dataQ": {
+          "unusual": ["200", "280", "275", "230", "240", "220"],
+          "lose": ["10", "50", "55", "60", "58", "50"],
+          "normal": ["130", "100", "100", "120", "120", "150"]
+        },
+        "meter": "65",
+        "dataUn": "50",
+        "dataLose": "5"
+      }
+    ],
+    "areaList": [
+      {"name": "区域1", "monitoringPoints": "100", "abnormalPoints": "23", "Proportion": "23"},
+      {"name": "区域2", "monitoringPoints": "100", "abnormalPoints": "23", "Proportion": "23"},
+      {"name": "区域3", "monitoringPoints": "100", "abnormalPoints": "5", "Proportion": "5"},
+      {"name": "区域4", "monitoringPoints": "100", "abnormalPoints": "9", "Proportion": "9"},
+      {"name": "区域5", "monitoringPoints": "100", "abnormalPoints": "9", "Proportion": "9"}
+    ]
+  }
+}
